@@ -1,7 +1,7 @@
 ---
 id: clase-73
-title: 'Introducción a Sass'
-sidebar_label: '73) Introducción a Sass'
+title: "Introducción a Sass"
+sidebar_label: "73) Introducción a Sass"
 ---
 
 ### 🏁 Objetivos
@@ -33,7 +33,7 @@ sidebar_label: '73) Introducción a Sass'
 
 📆 Fecha
 
-📹 Grabación
+[📹 Grabación](https://us02web.zoom.us/rec/share/riWJ33r0TAa-Zx0F4jA23RiTb-xAIUKaIE9a7C2OBkJwOCLNCxWxxGjs8okctwZ_.VVjRYjwXC6CgLxPd)
 
 👩‍💻 Código
 
