@@ -1,7 +1,7 @@
 ---
 id: clase-74
-title: 'Sass: Selector padre'
-sidebar_label: '74) Sass: Selector padre'
+title: "Sass: Selector padre"
+sidebar_label: "74) Sass: Selector padre"
 ---
 
 ### 🏁 Objetivos
@@ -21,9 +21,9 @@ sidebar_label: '74) Sass: Selector padre'
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha
+📆 Fecha 10/06/2022
 
-📹 Grabación
+📹 [Grabación](https://us02web.zoom.us/rec/share/44jt3oFTn6BvVzjAaCCmV-9kYtIy1K8b4ngVSOL6SoTOPGvvMasCxh89V4fXgHQC.j5rulOkJuu8H5As0)
 
 👩‍💻 Código
 

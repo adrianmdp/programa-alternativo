@@ -31,7 +31,7 @@ sidebar_label: "73) Introducción a Sass"
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha
+📆 Fecha 08/06/2022
 
 [📹 Grabación](https://us02web.zoom.us/rec/share/riWJ33r0TAa-Zx0F4jA23RiTb-xAIUKaIE9a7C2OBkJwOCLNCxWxxGjs8okctwZ_.VVjRYjwXC6CgLxPd)
 
