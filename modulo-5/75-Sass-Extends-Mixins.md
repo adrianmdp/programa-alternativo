@@ -1,7 +1,7 @@
 ---
 id: clase-75
-title: 'Sass: Extends y Mixins'
-sidebar_label: '75) Sass: Extends y Mixins'
+title: "Sass: Extends y Mixins"
+sidebar_label: "75) Sass: Extends y Mixins"
 ---
 
 ### 🏁 Objetivos
@@ -25,9 +25,9 @@ sidebar_label: '75) Sass: Extends y Mixins'
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha
+📆 Fecha 13/06/2022
 
-📹 Grabación
+[📹 Grabación](https://us02web.zoom.us/rec/share/oBy6LmD-ClPmKCv4xwyhnIuNSSQ6Yq2vrL1ZHwi8hH5ESevgJUWmuxhES81NydQr.Pu464XDwGFdGFs_h?startTime=1655157918000)
 
 👩‍💻 Código
 
