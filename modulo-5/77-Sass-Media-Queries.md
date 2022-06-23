@@ -1,7 +1,7 @@
 ---
 id: clase-77
-title: 'Sass: Media Queries'
-sidebar_label: '77) Sass: Media Queries'
+title: "Sass: Media Queries"
+sidebar_label: "77) Sass: Media Queries"
 ---
 
 ### 🏁 Objetivos
@@ -19,9 +19,9 @@ sidebar_label: '77) Sass: Media Queries'
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha
+📆 Fecha 22/06/2022
 
-📹 Grabación
+[📹 Grabación](https://us02web.zoom.us/rec/share/XVuVpVS9zmD_OU_MVap09NNb8kbB12OHw4PhhhQ5agQyRM2qViMN2217OPUAQMO8.GA8pIY2N9FVvxaj4?startTime=1655942891000)
 
 👩‍💻 Código
 
