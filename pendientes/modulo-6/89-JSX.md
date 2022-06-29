@@ -1,7 +1,7 @@
 ---
 id: clase-89
-title: 'JSX'
-sidebar_label: '89) JSX'
+title: "JSX"
+sidebar_label: "89) JSX"
 ---
 
 ### 🏁 Objetivos
@@ -25,9 +25,10 @@ sidebar_label: '89) JSX'
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha
+📆 Fecha 1° parte 27/06/2022
 
-📹 Grabación
+[📹 Grabación](https://drive.google.com/file/d/1mpf6Twid0bsGOXenXQh-8JHb_vrmFR_7/view?usp=sharing
+Google Docs)
 
 👩‍💻 Código
 
