@@ -25,7 +25,7 @@ sidebar_label: "89) JSX"
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha 1° parte 27/06/2022
+📆 Fecha 27/06/2022
 
 [📹 Grabación](https://drive.google.com/file/d/1mpf6Twid0bsGOXenXQh-8JHb_vrmFR_7/view?usp=sharing
 Google Docs)
