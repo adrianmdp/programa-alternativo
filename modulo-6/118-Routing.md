@@ -1,7 +1,7 @@
 ---
 id: clase-118
-title: 'Routing'
-sidebar_label: '118) Routing'
+title: "Routing"
+sidebar_label: "118) Routing"
 ---
 
 ### 🏁 Objetivos
@@ -25,9 +25,9 @@ sidebar_label: '118) Routing'
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha
+📆 Fecha 18/07/2022
 
-📹 Grabación
+[📹 Grabación](https://us02web.zoom.us/rec/share/7gyCjzq9xFP9Wmk3_VaEeQ8Vi-EWypCwYAxL3MiE7-O8pBAZBkAymJuB9eRguqmK.kPplcP__OFc9tklt?startTime=1658181897000)
 
 👩‍💻 Código
 
