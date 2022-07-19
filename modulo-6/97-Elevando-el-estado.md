@@ -1,7 +1,7 @@
 ---
 id: clase-97
-title: 'Elevando el estado'
-sidebar_label: '97) Elevando el estado'
+title: "Elevando el estado"
+sidebar_label: "97) Elevando el estado"
 ---
 
 ### 🏁 Objetivos
@@ -20,9 +20,9 @@ sidebar_label: '97) Elevando el estado'
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha
+📆 Fecha 18/07/2022
 
-📹 Grabación
+[📹 Grabación](https://us02web.zoom.us/rec/share/7gyCjzq9xFP9Wmk3_VaEeQ8Vi-EWypCwYAxL3MiE7-O8pBAZBkAymJuB9eRguqmK.kPplcP__OFc9tklt?startTime=1658181897000)
 
 👩‍💻 Código
 
