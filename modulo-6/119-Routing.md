@@ -1,7 +1,7 @@
 ---
 id: clase-119
-title: 'Routing avanzado'
-sidebar_label: '119) Routing avanzado'
+title: "Routing avanzado"
+sidebar_label: "119) Routing avanzado"
 ---
 
 ### 🏁 Objetivos
@@ -22,9 +22,9 @@ sidebar_label: '119) Routing avanzado'
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha
+📆 Fecha 20/7/2022
 
-📹 Grabación
+[📹 Grabación](https://us02web.zoom.us/rec/share/W5pAjtEg2Q21uJv7ugQGYXE0w55paXOOUq0DXi-wqxg7zdoeZdrEJ9RCbM4QHnJW.6bvUtkGwAd1I3RAs?startTime=1658354905000)
 
 👩‍💻 Código
 
