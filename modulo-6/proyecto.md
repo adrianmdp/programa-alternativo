@@ -1,12 +1,12 @@
 ---
 id: proyecto
-title: 'Todo List React'
+title: "Todo List React"
 sidebar_label: 🎥 Proyecto - Todo List React
 ---
 
-## ⚙️ Consigna
+## ⚙️ Consigna en [este link](https://docs.google.com/document/d/1j1nQx5u31UJu3fWHIFf89pyC83PvoFp3OAszOtNTgeM/edit).
 
-En este proyecto vas a crear una aplicación de React que permita hacer una lista de tareas,  marcar las tareas completadas ✔️ y poder eliminar 🗑  aquellas que ya no quieras o necesites, además de manipular localStorage.
+En este proyecto vas a crear una aplicación de React que permita hacer una lista de tareas, marcar las tareas completadas ✔️ y poder eliminar 🗑 aquellas que ya no quieras o necesites, además de manipular localStorage.
 
 Para este proyecto trabajarás en equipo siguiendo prácticas que se utilizan profesionalmente para desarrollar colaborativamente.
 
@@ -22,7 +22,6 @@ Por eso es recomendable ir haciendo las funcionalidades _una por una_. Al empeza
 
 Si tenemos que mejorar o arreglar una funcionalidad ya agregada, deberíamos hacer una nueva branch para dicho fix o refactor y nombrarla adecuadamente (por ejemplo, `refactor-completada`, `fix-localStorage`) y una vez finalizada la mejora o correción mergearla a `master`.
 
-
 ## 👍 Criterios de aceptación
 
 Los requisitos mínimos para que el proyecto sea considerado para la entrega son:
@@ -31,7 +30,7 @@ Los requisitos mínimos para que el proyecto sea considerado para la entrega son
 - Debe respetar las interacciones y flujo del proyecto.
 - Debe ser responsive.
 - Debe cumplir con las funcionalidades _principales_ listadas en la sección siguiente
-- Puede hacer hacer uso de un framework CSS 
+- Puede hacer hacer uso de un framework CSS
 - Debe estar deployado y ser accesible desde una dirección web
 - **No se debe trabajar en la rama `main`**. En `main` sólo van a mergearse las demás ramas, por lo que cada `commit` de `main` debería ser el `merge` de una `branch` de una funcionalidad _terminada_
 - **Cada funcionalidad que se agregue debe hacerse mediante un PR (Pull Request)**
@@ -39,16 +38,16 @@ Los requisitos mínimos para que el proyecto sea considerado para la entrega son
 ## 🎛 Funcionalidades principales
 
 - Toda la App debe estar desarrolada con React.js.(no hacer uso de Js vanilla)
-- Se debe tener un input para ingresar nuevas tareas con un icono. 
-- Se debe tener un select con opciones de `todas`, `completadas` e `incompletas` para seleccionar las tareas, y debe contener un con un icono. 
+- Se debe tener un input para ingresar nuevas tareas con un icono.
+- Se debe tener un select con opciones de `todas`, `completadas` e `incompletas` para seleccionar las tareas, y debe contener un con un icono.
 - Debemos poder generar nuevas tareas.
 - Cada tarea debe tener dos iconos, uno que nos ayude a marcar las tareas completadas y otro que nos permita eliminarlas.
 - Debemos poder marcar una tarea como completada, esto quiere decir que se debe de tachar.
 - Debemos poder eliminar una tarea del estado de la aplicación.
 - Debemos almacenar en useState el estado de todas las tareas.
 - Con ayuda del select debemos poder filtrar las tareas que se encuentran completadas, no completadas y todas.
-- Se debe poder separa la funcionalidad por componentes tomando en cuenta el ejemplo de: 
--App
+- Se debe poder separa la funcionalidad por componentes tomando en cuenta el ejemplo de:
+  -App
   - Components
     - Form
     - TodoList
@@ -56,9 +55,8 @@ Los requisitos mínimos para que el proyecto sea considerado para la entrega son
 - Se debe poder almacenar en localStorage ó Firebase las tareas.
 - Al eliminar una tarea se debe eliminar tanto del localStorage ó Firebase y de la App.
 - Al marcar como completada una tarea se debe marcar tanto en
-localStorage ó Firebase y de la App.
-- Debe estar alojado y deployado en un servicio como githubPages, Heroku, Netlify, etc. 
-
+  localStorage ó Firebase y de la App.
+- Debe estar alojado y deployado en un servicio como githubPages, Heroku, Netlify, etc.
 
 ## 📝 Criterios de evaluación
 
@@ -82,6 +80,7 @@ localStorage ó Firebase y de la App.
   - Uso de funciones puras para el manejo de datos
   - Buen uso de métodos funcionales de array (`map`, `filter`)
 - **10 (Excèlente)**
+
   - Reutilización de lógica / componentes
   - Commits con mensajes adecuados
   - Un PR por funcionalidad, fix o mejora
@@ -91,7 +90,6 @@ localStorage ó Firebase y de la App.
   - Realizar Issues y resolverlos.
 
 ## 🧰 Recursos
-
 
 - [Material UI](https://material-ui.com/) - Framework CSS
 - [React Bootstrap](https://react-bootstrap.github.io/) - Framework CSS
