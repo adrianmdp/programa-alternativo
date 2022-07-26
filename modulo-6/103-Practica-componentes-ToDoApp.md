@@ -14,9 +14,9 @@ sidebar_label: '103) Práctica componentes'
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha
+📆 Fecha 25/7/2022
 
-📹 Grabación
+[📹 Grabación](https://us02web.zoom.us/rec/share/QYcTzAADoQoRyEVrl02iBt2K1wP1abD0lMnFFUy4atrh82XF8rh8w2UDqjr4UjNI.BHXRc2cvpfgHfN4U?startTime=1658786905000)
 
 👩‍💻 Código
 
