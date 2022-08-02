@@ -1,7 +1,7 @@
 ---
 id: clase-105
-title: 'Repaso'
-sidebar_label: '105) Repaso'
+title: "Repaso"
+sidebar_label: "105) Repaso"
 ---
 
 ### 🏁 Objetivos
@@ -13,9 +13,9 @@ sidebar_label: '105) Repaso'
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha
+📆 Fecha 01/08/2022
 
-📹 Grabación
+[📹 Grabación](https://us02web.zoom.us/rec/share/nM70CftCYlpXLdIvWaI9EQgst6V82gu8Ybz5-a4c6xLiDn44M0ygHuOYEnLHWf1z.ObkSwJOuecpCX0qi?startTime=1659400207000)
 
 👩‍💻 Código
 
