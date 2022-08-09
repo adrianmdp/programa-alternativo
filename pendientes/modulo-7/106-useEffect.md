@@ -1,7 +1,7 @@
 ---
 id: clase-106
-title: 'useEffect'
-sidebar_label: '106) useEffect'
+title: "useEffect"
+sidebar_label: "106) useEffect"
 ---
 
 ### 🏁 Objetivos
@@ -25,9 +25,9 @@ sidebar_label: '106) useEffect'
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha
+📆 Fecha 08/08/2022
 
-📹 Grabación
+[📹 Grabación](https://us02web.zoom.us/rec/share/oYp602KyRQkBjiusZQdLRT6ZcS8oBQore6ynTThpkbZxgKQ_UBV_Y1m9gI5aHKzF.Ed28KJx2lMifdmbW?startTime=1659996245000)
 
 👩‍💻 Código
 

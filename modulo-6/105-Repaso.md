@@ -25,6 +25,10 @@ sidebar_label: "105) Repaso"
 
 [📹 Grabación](https://us02web.zoom.us/rec/share/OvwCJ1sSF2gKK8jd9VGtHpJqKcae1T5C1cMPC8Nw5apGA6B4GGeC1p1jvKxuuOyA.T1ZMhHKJb1oreOeb?startTime=1659737630000)
 
+📆 Fecha 08/08/2022 4° parte useEffect
+
+[📹 Grabación](https://us02web.zoom.us/rec/share/oYp602KyRQkBjiusZQdLRT6ZcS8oBQore6ynTThpkbZxgKQ_UBV_Y1m9gI5aHKzF.Ed28KJx2lMifdmbW?startTime=1659996245000)
+
 👩‍💻 Código
 
 💪 Ejercitación
