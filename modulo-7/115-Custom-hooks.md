@@ -1,7 +1,7 @@
 ---
 id: clase-115
-title: 'Custom hooks'
-sidebar_label: '155) Custom hooks'
+title: "Custom hooks"
+sidebar_label: "155) Custom hooks"
 ---
 
 ### 🏁 Objetivos
@@ -21,9 +21,9 @@ sidebar_label: '155) Custom hooks'
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha
+📆 Fecha 17/08/2022
 
-📹 Grabación
+|[📹 Grabación](https://us02web.zoom.us/rec/share/UgXQZdQWSqFqe_HrthDg8o4hQzjeuX0juawq85Wx88ernwuw-5GhjnVWmGMflcjL.leCdLX6woC2shAf7?startTime=1660773996000)
 
 👩‍💻 Código
 
