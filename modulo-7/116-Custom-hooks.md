@@ -13,6 +13,7 @@ sidebar_label: "116) Práctica Custom Hooks"
 ### 📝 Contenidos
 
 - Custom Hooks
+- useParams
 
 ---
 
