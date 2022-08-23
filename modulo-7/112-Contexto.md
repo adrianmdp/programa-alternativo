@@ -1,7 +1,7 @@
 ---
 id: clase-112
-title: 'Contexto'
-sidebar_label: '112) Contexto'
+title: "Contexto"
+sidebar_label: "112) Contexto"
 ---
 
 ### 🏁 Objetivos
@@ -24,9 +24,9 @@ sidebar_label: '112) Contexto'
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha
+📆 Fecha 22/08/22
 
-📹 Grabación
+[📹 Grabación](https://us02web.zoom.us/rec/share/xQ49b7wMYmrIGhNXuuME5ruEIcddK6gA7soOcx-MhRJe6p3x1Nv0OHHyyK9gf6oW.ZjnzRF7kSePA_Uyh?startTime=1661206163000)
 
 👩‍💻 Código
 

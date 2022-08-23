@@ -13,7 +13,7 @@ sidebar_label: "105) Repaso"
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha 01/08/2022 1° parte
+📆 Fecha 01/08/2022 1° parte (Repaso e introducción a Layout)
 
 [📹 Grabación](https://us02web.zoom.us/rec/share/nM70CftCYlpXLdIvWaI9EQgst6V82gu8Ybz5-a4c6xLiDn44M0ygHuOYEnLHWf1z.ObkSwJOuecpCX0qi?startTime=1659400207000)
 
