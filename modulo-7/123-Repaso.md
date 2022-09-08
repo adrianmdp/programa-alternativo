@@ -21,6 +21,10 @@ sidebar_label: "123) Repaso"
 
 [📹 Grabación](https://us02web.zoom.us/rec/share/fD_Mud9cuEzviKknIh5LRB3zmsRlil7hh6BSY8Xo84fLz2GTLUCu_uapPcFulGe3.KknUsxSeTvBr4HbQ?startTime=1662415614000)
 
+📆 Fecha 07/09/2022 (GITHUB)
+
+[📹 Grabación](https://us02web.zoom.us/rec/share/bj839ROTv4GZiqvT_LOn_wEatb8d2bNSiYzc-dvpyGOV6pzlKhKQ1MMm6ZosFZHh.ndkvhrfhYo0ve4S-?startTime=1662588625000)
+
 👩‍💻 Código
 
 💪 Ejercitación
