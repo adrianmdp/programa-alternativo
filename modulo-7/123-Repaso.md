@@ -27,7 +27,7 @@ sidebar_label: "123) Repaso"
 
 📆 Fecha 09/09/2022 (React Hook Forms, Yup, Boostrap)
 
-[📹 Grabación](https://us02web.zoom.us/rec/share/bj839ROTv4GZiqvT_LOn_wEatb8d2bNSiYzc-dvpyGOV6pzlKhKQ1MMm6ZosFZHh.ndkvhrfhYo0ve4S-?startTime=1662588625000)
+[📹 Grabación](https://us02web.zoom.us/rec/share/xOeSGvQklBpXBvXVg7FztnmLChkVzPu5ewF1LpDn_VbL8994eVLHaiO-XZTFbQ_i._FNcLrCFyvafuF9C?startTime=1662761556000)
 
 👩‍💻 Código
 
