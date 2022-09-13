@@ -29,6 +29,10 @@ sidebar_label: "123) Repaso"
 
 [📹 Grabación](https://us02web.zoom.us/rec/share/xOeSGvQklBpXBvXVg7FztnmLChkVzPu5ewF1LpDn_VbL8994eVLHaiO-XZTFbQ_i._FNcLrCFyvafuF9C?startTime=1662761556000)
 
+📆 Fecha 12/09/2022 (Axios, Variables de Entorno)
+
+[📹 Grabación](https://us02web.zoom.us/rec/share/4dKCGfAwBR1UYCNFR3QzS3rV3DfQo260XK21W_3M_xNJjWD7267l3O4-muSe4pdq.AmWOLm7HHE1YQDXe?startTime=1663020481000)
+
 👩‍💻 Código
 
 💪 Ejercitación
